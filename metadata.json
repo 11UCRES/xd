@@ -1,0 +1,5 @@
+{
+  "name": "BuySellBD",
+  "description": "A web platform for buying and selling through admin and escrow system.",
+  "requestFramePermissions": []
+}

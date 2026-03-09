@@ -1,11 +1,43 @@
-<div align="center">
+# 🛒 Buysellbd
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+**Buysellbd** is a modern web platform for buying and selling items, featuring an **admin panel** and a **secure escrow system**.  
+It is built using **Vibe Code** to provide a smooth and reliable user experience.
 
-  <h1>Built with AI Studio</h2>
+---
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🌐 Live Demo
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+Check out the live website here: [buysellbd.eu.cc](http://buysellbd.eu.cc)
 
-</div>
+---
+
+## 🚀 Features
+
+- User-friendly interface for buyers and sellers  
+- Admin panel for managing listings and users  
+- Secure escrow system to ensure safe transactions  
+- Responsive design for all devices  
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend & Backend:** Vibe Code  
+- **Hosting:** Free hosting on eu.cc  
+
+---
+
+## 📂 Repository
+
+This repository contains all the source code and files for Buysellbd.  
+Feel free to explore, download, or contribute!
+
+---
+
+## ✨ Contribution
+
+Contributions are welcome! Please fork the repo and submit a pull request for any improvements.
+
+---
+
+Made with ❤️ by **[IftaherSayem](https://github.com/IftaherSayem)**
